@@ -15,9 +15,10 @@ To create a user-friendly and insightful dashboard that provides:
 
 ## Key Features
 
-- ✅ KPI Cards showing Total Hours Worked, Productivity Score, Present and Absent Days
-- 📅 Line Chart showing Productivity Trends over Time
-- 📊 Bar Charts for:
+-  KPI Cards showing Total Hours Worked, Productivity Score, Present and Absent Days
+-  Line Chart showing Productivity Trends over Time
+  
+-  Bar Charts for:
   - Employee-wise hours worked
   - Department-wise total hours worked
 -  Pie Chart for Attendance Breakdown (Present, Absent, Leave Days)
@@ -51,7 +52,7 @@ The dataset includes the following columns:
 
 ---
 
-## 📝 Author
+## Author
 
 - Shivani Sanga 
 
